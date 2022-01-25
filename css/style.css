@@ -145,14 +145,14 @@ body {
 .adress {
   color: var(--accent-text-color);
   text-decoration: none;
-
+  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
 }
 .link-footer {
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
-
+  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
 }
